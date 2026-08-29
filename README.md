@@ -2,6 +2,8 @@
 
 A desktop file manager built with Python and PyQt6 that provides real-time visibility into operating system file I/O operations, demonstrating core OS concepts from the CSE 323 course.
 
+[![Demo Video](https://img.youtube.com/vi/dU7aH97psMA/0.jpg)](https://www.youtube.com/watch?v=dU7aH97psMA)
+
 ## Features
 
 | Feature | Description |
